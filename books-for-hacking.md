@@ -22,7 +22,7 @@ This is a list of useful books to learn hacking.
 - Blue Team Handbook
 
 ## Linux
-- Unix and Linux Administration
+- Unix and Linux Administration Handbook
 - Linux Basics for Hackers
 
 ## Netwoking
