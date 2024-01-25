@@ -39,6 +39,12 @@ This is a list of various tools which can be used for different phases of hackin
 - [ESET Scanner](https://www.eset.com/us/home/online-scanner/)
 - [F-Secure Scanner](https://www.f-secure.com/en/home/free-tools/online-scanner)
 
+## Windows Forensics
+#### [Sysinternals Suite]
+- Provided by Microsoft
+- Can be used for detailed analysis of windows running tasks (like processes and conections)
+  
+
 ## Web-based tools
 - [Spoofmytext](https://www.spoofmytext.com/)
 - [OSINT Framework](https://osintframework.com/)
